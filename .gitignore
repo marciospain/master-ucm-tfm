@@ -1,2 +1,4 @@
 modelos/*.pkl
 app_pred_diabetes/modelos/*.pkl
+*.pdf
+*.pptx
